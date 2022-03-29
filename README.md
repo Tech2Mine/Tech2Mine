@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tech2Mine
 - 👀 I’m interested in learning and developing my programming skill.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning any prog. lang.
 - 💞️ 
 - 📫 
 
